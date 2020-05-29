@@ -1,0 +1,12 @@
+.navbar {
+    background: linear-gradient(45deg, #E95420, #77216F);
+}
+
+.container {
+    margin-top: 7rem;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
